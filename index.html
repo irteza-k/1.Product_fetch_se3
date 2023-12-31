@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Product List</title>
+</head>
+
+<body>
+    <h1>Products Ordered by Popularity</h1>
+    <ul>
+        {% for product in products %}
+        <li>
+            <h3>{{ product.Title }}</h3>
+            <p>Price: ${{ product.Price }}</p>
+            <p>Popularity: {{ product.Popularity }}</p>
+            <hr>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+
+</html>

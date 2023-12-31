@@ -1,0 +1,590 @@
+[{
+        "Subcategory": "Electronics",
+        "Title": "Smartphone",
+        "Price": 599.99,
+        "Popularity": 95
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Men's Jacket",
+        "Price": 79.99,
+        "Popularity": 85
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Coffee Maker",
+        "Price": 49.99,
+        "Popularity": 70
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Headphones",
+        "Price": 129.99,
+        "Popularity": 88
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Remote Control Car",
+        "Price": 39.99,
+        "Popularity": 75
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Yoga Mat",
+        "Price": 19.99,
+        "Popularity": 60
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Facial Cleanser",
+        "Price": 24.99,
+        "Popularity": 82
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Cutting Board Set",
+        "Price": 29.99,
+        "Popularity": 68
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Smartwatch",
+        "Price": 199.99,
+        "Popularity": 91
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Women's Dress",
+        "Price": 69.99,
+        "Popularity": 77
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Blender",
+        "Price": 59.99,
+        "Popularity": 73
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Bluetooth Speaker",
+        "Price": 89.99,
+        "Popularity": 84
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Self-Help Book",
+        "Price": 12.99,
+        "Popularity": 63
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Board Game",
+        "Price": 34.99,
+        "Popularity": 79
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Dumbbell Set",
+        "Price": 49.99,
+        "Popularity": 87
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Moisturizer",
+        "Price": 27.99,
+        "Popularity": 72
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Cookware Set",
+        "Price": 129.99,
+        "Popularity": 90
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Laptop",
+        "Price": 899.99,
+        "Popularity": 94
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "T-Shirt",
+        "Price": 19.99,
+        "Popularity": 66
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Vacuum Cleaner",
+        "Price": 149.99,
+        "Popularity": 83
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Gaming Console",
+        "Price": 299.99,
+        "Popularity": 92
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Mystery Novel",
+        "Price": 15.99,
+        "Popularity": 78
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Puzzle",
+        "Price": 9.99,
+        "Popularity": 71
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Tennis Racket",
+        "Price": 79.99,
+        "Popularity": 86
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Shampoo",
+        "Price": 14.99,
+        "Popularity": 69
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Coffee Machine",
+        "Price": 79.99,
+        "Popularity": 80
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Tablet",
+        "Price": 349.99,
+        "Popularity": 89
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Jeans",
+        "Price": 49.99,
+        "Popularity": 74
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Microwave",
+        "Price": 99.99,
+        "Popularity": 81
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Camera",
+        "Price": 449.99,
+        "Popularity": 93
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Fantasy Novel",
+        "Price": 17.99,
+        "Popularity": 76
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Action Figure",
+        "Price": 24.99,
+        "Popularity": 67
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Running Shoes",
+        "Price": 89.99,
+        "Popularity": 88
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Lipstick",
+        "Price": 9.99,
+        "Popularity": 72
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Toaster",
+        "Price": 39.99,
+        "Popularity": 79
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "External Hard Drive",
+        "Price": 129.99,
+        "Popularity": 87
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Sweater",
+        "Price": 59.99,
+        "Popularity": 77
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Air Fryer",
+        "Price": 69.99,
+        "Popularity": 84
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Headset",
+        "Price": 49.99,
+        "Popularity": 82
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Biography",
+        "Price": 11.99,
+        "Popularity": 68
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "LEGO Set",
+        "Price": 79.99,
+        "Popularity": 86
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Yoga Pants",
+        "Price": 29.99,
+        "Popularity": 75
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Eye Cream",
+        "Price": 19.99,
+        "Popularity": 70
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Food Processor",
+        "Price": 89.99,
+        "Popularity": 83
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Mouse",
+        "Price": 19.99,
+        "Popularity": 81
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Dress Shirt",
+        "Price": 39.99,
+        "Popularity": 78
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Electric Kettle",
+        "Price": 24.99,
+        "Popularity": 73
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Portable Charger",
+        "Price": 34.99,
+        "Popularity": 80
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Science Fiction Novel",
+        "Price": 13.99,
+        "Popularity": 71
+    },
+
+    {
+        "Subcategory": "Electronics",
+        "Title": "Smart TV",
+        "Price": 799.99,
+        "Popularity": 90
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Winter Boots",
+        "Price": 109.99,
+        "Popularity": 82
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Slow Cooker",
+        "Price": 59.99,
+        "Popularity": 75
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Noise Cancelling Headphones",
+        "Price": 249.99,
+        "Popularity": 87
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Building Blocks Deluxe Set",
+        "Price": 49.99,
+        "Popularity": 78
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Gym Ball",
+        "Price": 14.99,
+        "Popularity": 68
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Night Cream",
+        "Price": 29.99,
+        "Popularity": 80
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Electric Pressure Cooker",
+        "Price": 89.99,
+        "Popularity": 83
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Smart Home Hub",
+        "Price": 179.99,
+        "Popularity": 85
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Summer Dress",
+        "Price": 39.99,
+        "Popularity": 72
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Air Purifier",
+        "Price": 99.99,
+        "Popularity": 79
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Charging Pad",
+        "Price": 49.99,
+        "Popularity": 81
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Sci-Fi Thriller Novel",
+        "Price": 16.99,
+        "Popularity": 76
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Outdoor Swing Set",
+        "Price": 159.99,
+        "Popularity": 88
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Boxing Gloves",
+        "Price": 29.99,
+        "Popularity": 73
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Hair Conditioner",
+        "Price": 12.99,
+        "Popularity": 70
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Coffee Grinder",
+        "Price": 34.99,
+        "Popularity": 77
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Drone with Camera",
+        "Price": 299.99,
+        "Popularity": 89
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Leather Jacket",
+        "Price": 129.99,
+        "Popularity": 84
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Steam Iron",
+        "Price": 19.99,
+        "Popularity": 74
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Gaming Mouse",
+        "Price": 69.99,
+        "Popularity": 86
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Historical Non-Fiction",
+        "Price": 18.99,
+        "Popularity": 71
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Toy Train Set",
+        "Price": 24.99,
+        "Popularity": 65
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Basketball",
+        "Price": 17.99,
+        "Popularity": 67
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Lip Balm",
+        "Price": 4.99,
+        "Popularity": 62
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Stand Mixer",
+        "Price": 249.99,
+        "Popularity": 88
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Charging Stand",
+        "Price": 39.99,
+        "Popularity": 79
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Blouse",
+        "Price": 29.99,
+        "Popularity": 76
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Steam Mop",
+        "Price": 59.99,
+        "Popularity": 82
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Portable Bluetooth Speaker",
+        "Price": 79.99,
+        "Popularity": 85
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Classic Literature",
+        "Price": 9.99,
+        "Popularity": 64
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Trampoline",
+        "Price": 299.99,
+        "Popularity": 90
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Hiking Boots",
+        "Price": 59.99,
+        "Popularity": 84
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Hand Soap",
+        "Price": 5.99,
+        "Popularity": 69
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Electric Griddle",
+        "Price": 49.99,
+        "Popularity": 75
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Wireless Bluetooth Earphones",
+        "Price": 49.99,
+        "Popularity": 83
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Polo Shirt",
+        "Price": 24.99,
+        "Popularity": 71
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Food Dehydrator",
+        "Price": 79.99,
+        "Popularity": 80
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Gaming Keyboard",
+        "Price": 89.99,
+        "Popularity": 77
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Travel Guide",
+        "Price": 14.99,
+        "Popularity": 68
+    },
+    {
+        "Subcategory": "Toys & Games",
+        "Title": "Outdoor Playhouse",
+        "Price": 199.99,
+        "Popularity": 86
+    },
+    {
+        "Subcategory": "Sports",
+        "Title": "Cycling Helmet",
+        "Price": 34.99,
+        "Popularity": 73
+    },
+    {
+        "Subcategory": "Beauty",
+        "Title": "Sunscreen",
+        "Price": 9.99,
+        "Popularity": 67
+    },
+    {
+        "Subcategory": "Kitchen",
+        "Title": "Knife Set",
+        "Price": 69.99,
+        "Popularity": 78
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Computer Monitor",
+        "Price": 199.99,
+        "Popularity": 85
+    },
+    {
+        "Subcategory": "Clothing",
+        "Title": "Sweatpants",
+        "Price": 34.99,
+        "Popularity": 74
+    },
+    {
+        "Subcategory": "Home & Kitchen",
+        "Title": "Handheld Vacuum",
+        "Price": 39.99,
+        "Popularity": 81
+    },
+    {
+        "Subcategory": "Electronics",
+        "Title": "Bluetooth Earbuds",
+        "Price": 59.99,
+        "Popularity": 79
+    },
+    {
+        "Subcategory": "Books",
+        "Title": "Science Book",
+        "Price": 24.99,
+        "Popularity": 72
+    }
+]
