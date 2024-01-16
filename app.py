@@ -5,8 +5,8 @@ import os
 app = Flask(__name__)
 
 # Access AWS credentials from environment variables
-aws_access_key_id = os.environ.get('AKIAU3SMU4N4FLANWSAQ')
-aws_secret_access_key = os.environ.get('E3fS8liQ87OjTdUM+czAescxaxlGLstDFXcWNdea')
+aws_access_key_id = os.environ.get('your_id')
+aws_secret_access_key = os.environ.get('Your_key')
 aws_region = os.environ.get('ap-south-1')
 
 # Initialize S3 client
